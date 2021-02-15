@@ -29,4 +29,4 @@ Kochava, support@kochava.com
 
 ## License
 
-KochavaCore is available under the Kochava Terms of Service.
+KochavaUI is available under the Kochava Terms of Service.
